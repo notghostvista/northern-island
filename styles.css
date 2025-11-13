@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Inter', sans-serif;
-  background: url('images/Northern Islands.png') no-repeat center center fixed;
+  background: url('Images/Northern Islands.png') no-repeat center center fixed;
   background-size: cover;
   color: #fff;
 }
@@ -316,3 +316,4 @@ footer {
   width: 150px;
   height: auto;
 }
+
